@@ -1,0 +1,8 @@
+{
+  "name": "CryptoTracker Pro",
+  "description": "A real-time cryptocurrency tracking application featuring portfolio management, market analysis, and AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
